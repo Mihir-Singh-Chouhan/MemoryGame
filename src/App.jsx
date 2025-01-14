@@ -1,9 +1,10 @@
-import MainPage from "./memory-game/index"
+import MemoryCardGame from './MemoryCardGame'
+
 function App() {
-  
+
   return (
     <>
-     <MainPage />
+   <MemoryCardGame/>
     </>
   )
 }
